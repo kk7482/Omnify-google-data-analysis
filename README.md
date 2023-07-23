@@ -1,1 +1,0 @@
-# Omnify-google-data-analysis
